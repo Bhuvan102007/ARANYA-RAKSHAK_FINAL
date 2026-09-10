@@ -1,0 +1,3 @@
+.DS_Store
+backend/.venv/
+backend/weights/clip/ViT-B-32.pt
